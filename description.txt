@@ -1,0 +1,15 @@
+This is a little patch that makes [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1311725711]Plentiful Traditions[/url] play more smoothly with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1419304439]Ancient Cache of Technologies[/url].
+
+The issues was the the Endurance traditions included "Glace into the abyss" (not my typo) that grants access to the Dark Matter Reactor tech. This allowed you to skip the normal process in ACOT for getting dark (or enigmatic) tech. Since dark matter power is a lot more powerful with ACOT, being able to skip ahead to it isn't balanced game play.
+
+Worse still, doing this actually breaks your enigmatic tech progression, as it means you can never research the techs to build Dark Matter Converters and Dimensional Harvesters. This is because those techs are gated behind Dark Matter Generation, which you are prevented from researching because you already have the Dark Matter Reactor from the Endurance tradition tree. This cripples your empire's ability to produce that essential resource (you would only be able to get them from research stations around wormholes).
+
+You can still get dark [i]energy[/i] buildings, but not dark [i]matter[/i] buildings, so you end up with a lop-sided and wonky resource economy.
+
+So what does this mod do? It removes the Dark Matter Reactor tech option from "Glace into the abyss" (sic) tradition, and grants you the actual tech Dark Matter Drawing instead. You get this tech for free (instead of it just being an option that you still have to research) and it enables exploitation of the dark matter resource. This will enable normal Dark Tech progression, in the way that ACOT intended.
+
+I've also tweaked the Endurance tradition tree a little bit. "Glace into the abyss" (grr) can now be acquired first, and the endurance traditions 4 and 5 have become 3 and 4 instead. It makes more sense that the megastructures tradition comes last, as it would only be of use later on anyway.
+
+Finally, I have included localisations that adjust the descriptions to match the changes that I have made. I have also corrected the typo so that the tradition now says "Glance into the abyss" (Christ, that was annoying me).
+
+This is fully compatible with !Lots of Traditions. I've tested it with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1509094777]!Lots of Traditions - Only PT & EST[/url], and I don't forsee any issue with any variant of !LoT because they only adjust the UI, not the content of any component mods.
